@@ -1,0 +1,359 @@
+,,,,,,,,,,,,,,
+,Society Name,# of rooms,# of bathrooms,# of balcony,Super Area,Furnishing,Facing,Floor,Total floors,Price,Maintenance,Main_Included,Total price,Tenant Type
+,Prestige Waterford,BHK3,5,2,2080,Semi,North-East,11,22,"95,000 ","14,000",TRUE,"109,000 ",FAMILY
+,Sobha Habitech,BHK3,4,3,1920,Semi,,4,14,"70,000 ","9,600",TRUE,"79,600 ",FAMILY
+,Sumadhura Soham,BHK2,2,1,1170,Full,West,4,4,"50,000 ","3,750",TRUE,"53,750 ",ANYONE
+,Mahaveer Tranquil,BHK3,3,2,1680,Semi,East,1,11,"47,000 ","7,000",TRUE,"54,000 ",FAMILY
+,Brigade Cosmopolis,BHK3,4,4,3480,Full,East,17,18,"160,000 ","17,000",TRUE,"177,000 ",FAMILY
+,Prestige Boulevard,BHK2,2,1,1159,Semi,Don't Know,2,4,"52,000 ","5,000",TRUE,"57,000 ",FAMILY
+,Sobha Habitech,BHK3,3,2,1852,Semi,South,6,15,"74,000 ","8,500",TRUE,"82,500 ",FAMILY
+,Brigade Woods,BHK3,3,,1950,Full,East,1,4,"85,000 ","7,500",TRUE,"92,500 ",ANYONE
+,Sobha Habitech,BHK2,2,2,1430,Semi,East,5,15,"48,000 ","4,000",TRUE,"52,000 ",FAMILY
+,DSR Green Vista,BHK2,2,2,1216,Semi,West,2,4,"43,000 ","3,000",TRUE,"46,000 ",ANYONE
+,Brigade Cosmopolis,BHK3,3,2,1720,Semi,West,10,17,"75,000 ","7,000",TRUE,"82,000 ",ANYONE
+,Citilights Rustique,BHK2,2,2,1350,Semi,East,0,3,"41,000 ","6,000",TRUE,"47,000 ",ANYONE
+,Brigade Woods,BHK3,3,2,1695,Semi,East,1,5,"75,000 ","7,200",TRUE,"82,200 ",COMPANY
+,Sobha Habitech,BHK3,3,2,1868,Semi,West,1,13,"69,000 ","8,000",TRUE,"77,000 ",FAMILY
+,Prestige Boulevard,BHK3,3,2,1594,Semi,East,2,4,"64,000 ","8,000",TRUE,"72,000 ",FAMILY
+,Mahaveer Tranquil,BHK2,2,1,1250,Semi,East,9,12,"46,000 ","5,000",TRUE,"51,000 ",FAMILY
+,Sumadhura Soham,BHK2,2,1,1260,Semi,North,3,4,"49,000 ","4,000",TRUE,"53,000 ",FAMILY
+,Dsr Green Vista,BHK2,2,2,1300,Semi,East,1,4,"41,000 ","2,500",TRUE,"43,500 ",ANYONE
+,Prestige Palms,BHK2,2,1,1336,Full,North-East,2,3,"60,000 ",,FALSE,"60,000 ",ANYONE
+,Sumadhura Silver Ripples,BHK2,2,1,1320,Full,East,4,14,"60,000 ","5,000",TRUE,"65,000 ",FAMILY
+,Prestige Waterford,BHK3,4,,1775,Semi,,11,22,"100,000 ",,FALSE,"100,000 ",ANYONE
+,Prestige Waterford,BHK3,4,2,2027,Semi,North-East,2,23,"100,000 ","12,000",TRUE,"112,000 ",ANYONE
+,Prestige Waterford,BHK3,4,2,1778,Semi,South-West,19,23,"950,000 ",,FALSE,"950,000 ",FAMILY
+,Citilights Rustique,BHK3,3,3,1743,Semi,North,1,2,"53,999 ","8,500",TRUE,"62,499 ",ANYONE
+,Mahaveer Tranquil,BHK3,3,3,1690,Semi,West,5,11,"60,000 ","8,000",TRUE,"68,000 ",FAMILY
+,Sumadhura Silver Ripples,BHK3,3,3,1805,Semi,South-East,5,14,"68,000 ","8,000",TRUE,"76,000 ",FAMILY
+,Sumadhura Silver Ripples,BHK3,3,2,1805,Semi,West,7,14,"68,000 ","7,000",TRUE,"75,000 ",FAMILY
+,Prestige Waterford,BHK2,4,,2027,Semi,,18,24,"100,000 ","14,500",TRUE,"114,500 ",ANYONE
+,Sobha Habitech,BHK3,3,3,1852,Semi,West,6,15,"72,000 ","8,500",TRUE,"80,500 ",ANYONE
+,Brigade Woods,BHK3,3,,1695,Full,East,1,4,"82,000 ","7,000",TRUE,"89,000 ",ANYONE
+,Brigade Woods,BHK2,2,2,1374,Semi,West,1,4,"64,000 ","5,000",TRUE,"69,000 ",FAMILY
+,Brigade Cosmopolis,BHK2,2,1,1250,Semi,East,7,17,"65,000 ","5,000",TRUE,"70,000 ",FAMILY
+,Brigade Cosmopolis,BHK2,2,1,1370,Full,East,15,17,"60,000 ","6,000",TRUE,"66,000 ",ANYONE
+,Gopalan Atlantis,BHK2,2,2,1250,Semi,East,11,11,"50,000 ",,FALSE,"50,000 ",FAMILY
+,Sobha Habitech,BHK3,3,2,1921,Semi,North,4,12,"70,000 ","9,000",TRUE,"79,000 ",FAMILY
+,Brigade Woods,BHK1,1,0,631,Semi,North-East,0,4,"39,000 ",,FALSE,"39,000 ",FAMILY
+,Prestige Waterford,BHK3,5,2,1500,Semi,North-West,19,24,"110,000 ","7,500",TRUE,"117,500 ",FAMILY
+,Sumadhura Silver Ripples,BHK2,2,1,1320,Full,North,10,14,"65,000 ","5,800",TRUE,"70,800 ",FAMILY
+,Sumadhura Soham,BHK2,2,1,1255,Semi,East,1,5,"55,000 ","5,000",TRUE,"60,000 ",FAMILY
+,Mahaveer Tranquil,BHK3,3,3,1690,Semi,West,3,11,"57,000 ","6,000",TRUE,"63,000 ",ANYONE
+,DSR Green Vista,BHK2,2,2,1310,Semi,East,3,3,"42,000 ","4,000",TRUE,"46,000 ",FAMILY
+,Prestige Palms,BHK2,2,2,1352,Semi,West,2,4,"50,000 ","7,000",TRUE,"57,000 ",ANYONE
+,Prestige Waterford,BHK3,4,2,1775,Semi,North-East,9,24,"84,000 ",,FALSE,"84,000 ",FAMILY
+,Godrej United,BHK3,3,2,2130,Semi,Don't Know,14,17,"120,000 ","10,000",TRUE,"130,000 ",FAMILY
+,Prestige Waterford,BHK1,1,,640,Full,,7,22,"55,000 ","3,000",TRUE,"58,000 ",FAMILY
+,Prestige Waterford,BHK3,4,2,1775,Semi,North-East,18,24,"85,000 ",,FALSE,"85,000 ",FAMILY
+,Prestige Waterford,BHK3,5,2,2027,Semi,South-West,17,24,"80,000 ",,FALSE,"80,000 ",FAMILY
+,Prestige Waterford,BHK3,4,2,1775,Semi,North-East,11,24,"90,000 ",,FALSE,"90,000 ",FAMILY
+,Sobha Rose,BHK3,3,3,1595,Full,North-East,2,2,"40,000 ","6,000",TRUE,"46,000 ",ANYONE
+,Sumadhura Silver Ripples,BHK3,3,2,1805,Full,East,14,14,"75,000 ","8,000",TRUE,"83,000 ",ANYONE
+,Prestige Palms,BHK1,1,1,605,Semi,East,0,2,"20,000 ",,FALSE,"20,000 ",COMPANY
+,Sumadhura Soham,BHK3,2,1,1560,Semi,North,1,4,"55,000 ","5,000",TRUE,"60,000 ",FAMILY
+,Brigade Cosmopolis,BHK3,3,2,1790,Semi,,16,17,"70,000 ","9,650",TRUE,"79,650 ",FAMILY
+,Prestige Waterford,BHK4PLUS,6,2,2555,Semi,South,22,24,"110,000 ",,FALSE,"110,000 ",FAMILY
+,Prestige Palms,BHK2,2,2,1352,Semi,West,0,3,"22,000 ",,FALSE,"22,000 ",ANYONE
+,Mahaveer Tranquil,BHK2,2,1,1218,Full,East,1,11,"46,000 ","3,750",TRUE,"49,750 ",BACHELOR_MALE
+,Sobha Habitech,BHK3,3,2,1854,Semi,,11,16,"70,000 ","8,000",TRUE,"78,000 ",FAMILY
+,Prestige Waterford,BHK1,1,1,640,Full,East,7,22,"55,000 ","3,000",TRUE,"58,000 ",FAMILY
+,Sumadhura Silver Ripples,BHK3,3,3,1805,Semi,East,10,14,"65,000 ","8,000",TRUE,"73,000 ",FAMILY
+,DSR Green Vista,BHK3,2,,1475,Semi,,3,3,"47,000 ","4,200",TRUE,"51,200 ",FAMILY
+,Sobha Rose,BHK3,3,2,1720,Semi,East,3,12,"43,000 ","6,500",TRUE,"49,500 ",FAMILY
+,Mahaveer Tranquil,BHK3,3,3,1778,Semi,West,5,11,"55,000 ","7,000",TRUE,"62,000 ",COMPANY
+,Mahaveer Tranquil,BHK2,2,1,1113,Semi,East,11,11,"40,000 ","3,500",TRUE,"43,500 ",ANYONE
+,Prestige Waterford,BHK3,4,2,2027,Semi,East,10,21,"95,000 ","12,000",TRUE,"107,000 ",ANYONE
+,Sumadhura Silver Ripples,BHK2,2,1,1285,Full,South,9,14,"55,000 ","5,000",TRUE,"60,000 ",FAMILY
+,Prestige Palms,BHK2,2,2,1352,Full,East,3,3,"55,000 ","6,500",TRUE,"61,500 ",ANYONE
+,Dsr Green Vista,BHK3,2,2,1501,Semi,West,1,4,"50,000 ","4,300",TRUE,"54,300 ",FAMILY
+,Godrej United,BHK4,5,3,2700,Semi,East,15,17,"140,000 ","13,000",TRUE,"153,000 ",COMPANY
+,Citilights Rustique,BHK3,3,2,1764,Semi,South,2,3,"50,000 ","10,000",TRUE,"60,000 ",FAMILY
+,Dsr Green Vista,BHK2,2,2,1200,Full,East,2,4,"36,500 ","3,500",TRUE,"40,000 ",FAMILY
+,Prestige Waterford,BHK3,4,0,2150,Full,East,18,23,"85,000 ","12,000",TRUE,"97,000 ",ANYONE
+,Prestige Waterford,BHK3,4,2,1775,Semi,East,10,22,"95,000 ",,FALSE,"95,000 ",ANYONE
+,Dsr Green Vista,BHK2,2,,1139,Semi,,1,3,"25,000 ",,FALSE,"25,000 ",FAMILY
+,Sobha Habitech,BHK3,3,2,1842,Semi,East,3,15,"70,000 ","9,100",TRUE,"79,100 ",FAMILY
+,Citilights Rustique,BHK3,3,3,1774,Semi,,1,3,"50,000 ","9,000",TRUE,"59,000 ",FAMILY
+,Prestige Waterford,BHK4,5,2,2027,Semi,North-East,23,23,"85,000 ","10,000",TRUE,"95,000 ",FAMILY
+,Prestige Waterford,BHK4,4,2,1788,Full,East,18,22,"90,000 ","14,000",TRUE,"104,000 ",COMPANY
+,Prestige Waterford,BHK3,4,2,2027,Semi,North,19,24,"95,000 ","12,000",TRUE,"107,000 ",FAMILY
+,Sumadhura Silver Ripples,BHK2,2,2,1340,Semi,East,11,14,"51,000 ","5,000",TRUE,"56,000 ",COMPANY
+,Gopalan Atlantis,BHK3,3,3,1755,Semi,East,2,11,"62,000 ",,FALSE,"62,000 ",FAMILY
+,Gopalan Atlantis,BHK3,3,3,1755,Semi,North-East,3,11,"60,000 ","6,333",TRUE,"66,333 ",ANYONE
+,Citilights Rustique,BHK3,3,2,1729,Semi,,1,4,"60,000 ",,FALSE,"60,000 ",ANYONE
+,Prestige Boulevard,BHK3,3,2,1638,Full,North-West,2,4,"65,000 ","7,500",TRUE,"72,500 ",ANYONE
+,Mahaveer Tranquil,BHK3,3,2,1649,Semi,East,1,11,"50,000 ","7,000",TRUE,"57,000 ",FAMILY
+,Gopalan Atlantis,BHK3,3,,1755,Semi,,3,11,"60,000 ",,FALSE,"60,000 ",FAMILY
+,Sumadhura Silver Ripples,BHK2,2,2,1350,Full,North-East,13,14,"63,000 ","4,800",TRUE,"67,800 ",ANYONE
+,Prestige Waterford,BHK3,4,2,2027,Semi,,19,23,"119,000 ",1,TRUE,"119,001 ",FAMILY
+,Sumadhura Soham,BHK3,2,1,1455,Semi,West,3,4,"55,000 ","3,500",TRUE,"58,500 ",FAMILY
+,Prestige Waterford,BHK3,5,2,2027,Semi,Don't Know,7,24,"92,000 ",,FALSE,"92,000 ",FAMILY
+,Sumadhura Silver Ripples,BHK3,3,2,1805,Semi,East,12,14,"65,000 ","6,000",TRUE,"71,000 ",FAMILY
+,Sobha Habitech,BHK3,3,3,1852,Semi,East,12,15,"70,000 ","9,000",TRUE,"79,000 ",ANYONE
+,Sumadhura Silver Ripples,BHK3,3,2,1805,Semi,East,12,14,"65,000 ","5,998",TRUE,"70,998 ",FAMILY
+,Brigade Cosmopolis,BHK3,3,,1720,Semi,,2,17,"68,000 ",,FALSE,"68,000 ",FAMILY
+,Prestige boulevard,BHK3,2,0,1594,Semi,West,2,4,"62,000 ","8,000",TRUE,"70,000 ",FAMILY
+,Brigade cosmopolis,BHK3,3,2,1910,Full,East,2,17,"80,000 ","9,000",TRUE,"89,000 ",ANYONE
+,Sumadhura Silver Ripples,BHK2,2,1,1340,Semi,East,9,14,"50,000 ","5,750",TRUE,"55,750 ",FAMILY
+,Brigade Woods,BHK3,3,2,1756,Semi,East,4,4,"70,000 ","7,500",TRUE,"77,500 ",FAMILY
+,Sumadhura Silver Ripples,BHK2,2,1,1141,Full,North-East,4,14,"25,000 ",,FALSE,"25,000 ",ANYONE
+,Mahaveer Tranquil,BHK3,3,3,1700,Semi,West,9,11,"60,000 ","12,000",TRUE,"72,000 ",ANYONE
+,Prestige Waterford,BHK3,5,2,2000,Semi,,16,20,"85,000 ","5,000",TRUE,"90,000 ",FAMILY
+,Sumadhura Silver Ripples,BHK3,3,1,1900,Full,,10,14,"60,000 ","7,500",TRUE,"67,500 ",ANYONE
+,Casa Gopalan,BHK2,2,2,1475,Semi,East,6,9,"40,000 ","5,000",TRUE,"45,000 ",FAMILY
+,Sumadhura Silver Ripples,BHK2,2,2,1285,Semi,,8,14,"52,000 ","4,300",TRUE,"56,300 ",FAMILY
+,Prestige Waterford,BHK1,1,1,630,Semi,East,10,22,"50,000 ","3,780",TRUE,"53,780 ",COMPANY
+,DSR Green Vista,BHK2,2,1,1140,Full,South-East,4,4,"30,000 ",,FALSE,"30,000 ",COMPANY
+,PRESTIGE BOULEVARD,BHK2,2,1,1000,Full,,3,4,"62,000 ",,FALSE,"62,000 ",ANYONE
+,Mahaveer Tranquil,BHK3,3,3,1790,Semi,West,9,11,"65,000 ","15,000",TRUE,"80,000 ",ANYONE
+,Prestige Boulevard,BHK3,3,2,1594,Semi,West,2,4,"58,000 ","8,000",TRUE,"66,000 ",FAMILY
+,Sumadhura Soham,BHK3,2,1,1560,Semi,East,3,4,"58,000 ","5,000",TRUE,"63,000 ",ANYONE
+,Prestige Waterford,BHK3,4,2,1775,Semi,North-East,2,22,"78,000 ","7,000",TRUE,"85,000 ",FAMILY
+,Gopalan Atlantis,BHK3,2,3,1750,Semi,East,4,10,"58,000 ","6,000",TRUE,"64,000 ",ANYONE
+,Sumadhura Soham,BHK2,2,1,1170,Semi,North,1,4,"45,000 ","6,000",TRUE,"51,000 ",ANYONE
+,Prestige Waterford,BHK4,6,2,1900,Semi,East,5,24,"105,000 ",,FALSE,"105,000 ",ANYONE
+,Mahaveer Tranquil,BHK3,3,2,1769,Semi,North,8,11,"56,000 ","6,000",TRUE,"62,000 ",ANYONE
+,Prestige Palms,BHK2,2,2,1352,Full,West,0,3,"60,000 ","6,800",TRUE,"66,800 ",FAMILY
+,Sumadhura Silver Ripples,BHK3,3,2,2000,Full,East,13,14,"62,000 ","7,500",TRUE,"69,500 ",FAMILY
+,Prestige Palms,BHK2,2,2,1352,Full,East,3,3,"48,000 ","5,400",TRUE,"53,400 ",ANYONE
+,Prestige Palms,BHK2,2,2,1352,Full,East,2,3,"54,000 ",,FALSE,"54,000 ",FAMILY
+,Brigade Cosmopolis,BHK3,3,2,1740,Semi,West,14,18,"70,000 ","7,500",TRUE,"77,500 ",FAMILY
+,Casa Gopalan,BHK2,2,2,1435,Semi,East,6,9,"48,000 ","5,740",TRUE,"53,740 ",FAMILY
+,Sumadhura Silver Ripples,BHK3,3,2,2000,Semi,East,13,14,"65,000 ","7,000",TRUE,"72,000 ",FAMILY
+,Casa Gopalan,BHK3,3,3,1630,Semi,East,8,8,"43,500 ","6,500",TRUE,"50,000 ",FAMILY
+,Sumadhura Soham,BHK2,2,,1170,Full,,0,5,"56,000 ",,FALSE,"56,000 ",FAMILY
+,Mahaveer Tranquil,BHK2,2,2,1148,Semi,South,7,11,"40,000 ","3,800",TRUE,"43,800 ",FAMILY
+,Sobha Habitech,BHK2,2,1,1285,Semi,North,10,22,"25,000 ","3,000",TRUE,"28,000 ",FAMILY
+,DSR Green Vista,BHK2,2,3,1450,Semi,East,3,3,"39,000 ","3,200",TRUE,"42,200 ",ANYONE
+,Brigade Cosmopolis,BHK2,2,1,1320,Semi,,1,17,"50,000 ","6,000",TRUE,"56,000 ",ANYONE
+,Sumadhura Soham,BHK2,2,1,1170,Semi,East,2,4,"45,000 ","3,500",TRUE,"48,500 ",FAMILY
+,SOBHA Habitech,BHK2,2,2,1400,Semi,,2,13,"53,000 ","6,010",TRUE,"59,010 ",BACHELOR_MALE
+,DSR Green Vista,BHK3,2,2,1580,Semi,North-East,2,3,"50,000 ","4,500",TRUE,"54,500 ",FAMILY
+,Brigade Woods,BHK2,2,2,1300,Semi,,3,4,"65,000 ","5,800",TRUE,"70,800 ",FAMILY
+,Brigade Woods,BHK3,3,2,2000,Semi,East,2,4,"75,000 ","7,500",TRUE,"82,500 ",FAMILY
+,Brigade Cosmopolis,BHK3,3,2,1740,Semi,North,8,15,"70,000 ","7,400",TRUE,"77,400 ",FAMILY
+,Sumadhura Soham,BHK1,2,1,900,Full,West,4,4,"36,000 ","3,500",TRUE,"39,500 ",BACHELOR_MALE
+,Gopalan Atlantis,BHK2,2,2,1250,Full,North,2,11,"45,000 ","3,900",TRUE,"48,900 ",FAMILY
+,Godrej United,BHK2,2,1,1032,Semi,East,15,18,"70,000 ","5,000",TRUE,"75,000 ",ANYONE
+,Gopalan Atlantis,BHK3,3,3,1850,Semi,East,6,11,"60,000 ","6,000",TRUE,"66,000 ",FAMILY
+,Sobha Habitech,BHK3,3,2,2400,Semi,East,2,15,"72,000 ","5,000",TRUE,"77,000 ",FAMILY
+,DSR Green Vista,BHK2,2,2,1216,Semi,East,3,3,"40,000 ","3,466",TRUE,"43,466 ",FAMILY
+,Dsr Green Vista,BHK2,2,1,1216,Semi,East,3,3,"40,000 ","3,284",TRUE,"43,284 ",FAMILY
+,Sobha Rose,BHK3,3,,1600,Semi,,3,14,"47,000 ",,FALSE,"47,000 ",FAMILY
+,Brigade woods,BHK2,2,1,1200,Semi,East,0,3,"63,000 ",,FALSE,"63,000 ",FAMILY
+,Sumadhura Silver Ripples,BHK2,2,1,1365,Full,North-East,1,14,"62,000 ","5,000",TRUE,"67,000 ",COMPANY
+,Gopalan Atlantis,BHK3,3,3,1745,Semi,East,10,11,"60,000 ","5,500",TRUE,"65,500 ",ANYONE
+,CASA GOPALAN,BHK2,2,2,1480,Semi,East,2,9,"44,000 ","6,000",TRUE,"50,000 ",ANYONE
+,Sumadhura Silver Ripples,BHK2,2,1,1320,Full,North,10,14,"80,000 ","6,000",TRUE,"86,000 ",FAMILY
+,Brigade Cosmopolis,BHK2,2,1,1360,Semi,East,14,18,"65,000 ","6,000",TRUE,"71,000 ",FAMILY
+,Gopalan Atlantis,BHK2,2,2,1150,Semi,North-East,9,11,"45,000 ","3,900",TRUE,"48,900 ",FAMILY
+,Sobha Habitech,BHK2,2,2,1280,Semi,North,6,16,"40,000 ","5,000",TRUE,"45,000 ",FAMILY
+,Citilights Rustique,BHK2,2,2,1400,Semi,West,2,3,"49,000 ",,FALSE,"49,000 ",FAMILY
+,Sobha Habitech,BHK3,3,2,2050,Semi,East,1,14,"70,000 ","7,500",TRUE,"77,500 ",ANYONE
+,Sobha Habitech,BHK3,3,2,1922,Semi,,12,14,"70,000 ","9,500",TRUE,"79,500 ",FAMILY
+,Prestige Waterford,BHK3,4,2,2027,Semi,North-East,14,23,"90,000 ",,FALSE,"90,000 ",FAMILY
+,Mahaveer Tranquil,BHK2,2,2,1229,Semi,East,8,11,"48,000 ","5,000",TRUE,"53,000 ",FAMILY
+,Gopalan Atlantis,BHK2,2,2,1280,Semi,West,7,11,"40,000 ","4,500",TRUE,"44,500 ",FAMILY
+,Sumadhura Soham,BHK3,2,3,1575,Semi,East,0,4,"52,000 ","5,500",TRUE,"57,500 ",FAMILY
+,Sumadhura Silver Ripples,BHK3,3,2,1805,Semi,,9,15,"70,000 ",,FALSE,"70,000 ",ANYONE
+,Sumadhura Silver Ripples,BHK2,2,2,1320,Full,East,4,14,"55,000 ","4,000",TRUE,"59,000 ",ANYONE
+,Sobha Habitech,BHK3,3,2,1852,Semi,West,9,15,"65,000 ","9,000",TRUE,"74,000 ",FAMILY
+,Brigade Woods,BHK2,2,1,1400,Semi,East,0,4,"55,000 ","6,000",TRUE,"61,000 ",FAMILY
+,Sumadhura Soham,BHK2,2,2,1260,Full,East,0,4,"48,000 ","4,000",TRUE,"52,000 ",FAMILY
+,Brigade Woods,BHK1,1,0,618,Full,North,4,4,"38,000 ","2,596",TRUE,"40,596 ",FAMILY
+,Sumadhura Silver Ripples,BHK3,3,1,1950,Semi,West,5,14,"75,000 ",,FALSE,"75,000 ",FAMILY
+,Sobha Rose,BHK3,3,0,1650,Full,,2,10,"65,300 ",,FALSE,"65,300 ",ANYONE
+,Prestige Waterford,BHK4,6,2,2525,Semi,South-East,16,21,"90,000 ","15,000",TRUE,"105,000 ",FAMILY
+,Sobha Habitech,BHK3,4,2,1950,Semi,East,3,11,"63,000 ","9,900",TRUE,"72,900 ",FAMILY
+,Casa Gopalan,BHK2,2,2,1300,Full,Don't Know,4,9,"50,000 ",,FALSE,"50,000 ",ANYONE
+,Sobha Habitech,BHK3,4,2,2225,Semi,North,13,15,"80,000 ","11,500",TRUE,"91,500 ",COMPANY
+,Sobha Rose,BHK2,3,,1600,Full,North-East,6,13,"55,000 ","6,400",TRUE,"61,400 ",BACHELOR
+,Sumadhura Silver Ripples,BHK2,2,2,1320,Full,Don't Know,8,14,"58,000 ","4,500",TRUE,"62,500 ",ANYONE
+,Prestige Palms,BHK2,2,2,1352,Semi,East,0,3,"49,000 ","6,422",TRUE,"55,422 ",ANYONE
+,Sumadhura Silver Ripples,BHK3,3,,1805,Semi,East,8,14,"70,000 ","17,000",TRUE,"87,000 ",FAMILY
+,Prestige Waterford,BHK3,4,2,2027,Semi,East,16,23,"95,000 ",,FALSE,"95,000 ",ANYONE
+,Prestige Waterford,BHK3,4,2,2027,Semi,East,16,23,"87,000 ",,FALSE,"87,000 ",ANYONE
+,Sumadhura Soham,BHK3,3,2,1755,Semi,East,2,4,"55,000 ","5,000",TRUE,"60,000 ",FAMILY
+,DSR Green Vista,BHK2,2,3,1500,Semi,East,3,3,"45,000 ","3,500",TRUE,"48,500 ",FAMILY
+,Prestige Waterford,BHK3,4,2,1775,Semi,North-East,2,16,"80,000 ","7,000",TRUE,"87,000 ",FAMILY
+,Mahaveer Tranquil,BHK3,3,4,1800,Semi,East,2,11,"47,000 ","6,500",TRUE,"53,500 ",FAMILY
+,Prestige Waterford,BHK4,6,2,2800,Semi,East,22,24,"130,000 ",,FALSE,"130,000 ",ANYONE
+,Gopalan Atlantis,BHK3,3,2,1800,Semi,East,5,25,"60,000 ","5,000",TRUE,"65,000 ",COMPANY
+,Brigade Cosmopolis,BHK3,3,2,1720,Semi,East,1,18,"90,000 ",,FALSE,"90,000 ",ANYONE
+,Brigade Cosmopolis,BHK2,2,1,1360,Semi,North,12,17,"53,000 ","5,930",TRUE,"58,930 ",FAMILY
+,Sumadhura Silver Ripples,BHK3,3,2,1950,Semi,East,8,14,"68,000 ","6,000",TRUE,"74,000 ",FAMILY
+,Dsr Green Vista,BHK2,2,2,1301,Semi,West,2,3,"40,000 ","3,550",TRUE,"43,550 ",ANYONE
+,Prestige Waterford,BHK3,4,2,1775,Semi,North-East,2,21,"90,000 ",,FALSE,"90,000 ",FAMILY
+,Prestige Waterford,BHK1,1,1,631,Semi,,7,23,"50,000 ",,FALSE,"50,000 ",FAMILY
+,Prestige Waterford,BHK4PLUS,5,2,2650,Semi,East,9,23,"103,000 ","10,000",TRUE,"113,000 ",ANYONE
+,Godrej United,BHK3,3,3,2140,Semi,North-West,4,17,"105,000 ","10,000",TRUE,"115,000 ",FAMILY
+,Brigade Cosmopolis,BHK2,2,1,1250,Semi,East,8,17,"54,000 ","5,000",TRUE,"59,000 ",FAMILY
+,Prestige Waterford,BHK1,1,1,632,Semi,,2,22,"45,000 ",,FALSE,"45,000 ",ANYONE
+,Sobha Habitech,BHK2,2,2,1440,Semi,North-East,0,14,"50,000 ","6,100",TRUE,"56,100 ",COMPANY
+,Sumadhura Silver Ripples,BHK3,3,2,1865,Semi,East,9,14,"70,000 ","7,000",TRUE,"77,000 ",FAMILY
+,Prestige Boulevard,BHK2,2,1,1159,Semi,East,1,4,"45,000 ","5,608",TRUE,"50,608 ",FAMILY
+,Godrej United,BHK3,3,3,2145,Semi,North,4,15,"109,000 ","8,104",TRUE,"117,104 ",FAMILY
+,Brigade Woods,BHK3,3,2,1950,Semi,East,0,3,"72,000 ",,FALSE,"72,000 ",ANYONE
+,Mahaveer tranquil,BHK3,3,4,1630,Semi,West,6,11,"50,000 ","7,000",TRUE,"57,000 ",FAMILY
+,Mahaveer Tranquil,BHK3,3,3,1667,Semi,West,3,11,"50,000 ","5,000",TRUE,"55,000 ",ANYONE
+,Brigade Woods,BHK3,3,2,1768,Semi,West,0,4,"75,000 ","7,500",TRUE,"82,500 ",FAMILY
+,Sumadhura Silver Ripples,BHK3,3,1,1900,Semi,North-East,2,14,"60,000 ","10,000",TRUE,"70,000 ",FAMILY
+,Gopalan Atlantis,BHK2,2,2,1250,Semi,North,4,11,"45,000 ","4,500",TRUE,"49,500 ",FAMILY
+,Sumadhura Silver Ripples,BHK2,2,1,1320,Full,East,5,14,"50,000 ","4,500",TRUE,"54,500 ",ANYONE
+,Sobha Habitech,BHK3,2,2,1800,Full,Don't Know,1,15,"60,000 ","5,200",TRUE,"65,200 ",ANYONE
+,Prestige Waterford,BHK3,4,2,1775,Semi,North,1,23,"75,000 ","6,000",TRUE,"81,000 ",ANYONE
+,Dsr Green Vista,BHK2,2,2,1216,Semi,East,1,3,"40,000 ","3,283",TRUE,"43,283 ",COMPANY
+,Brigade Cosmopolis,BHK2,2,1,1320,Semi,East,5,14,"32,000 ","5,300",TRUE,"37,300 ",FAMILY
+,Sumadhura Soham,BHK2,2,1,1170,Semi,East,3,4,"48,000 ","4,000",TRUE,"52,000 ",FAMILY
+,Gopalan Atlantis,BHK3,3,3,1755,Semi,West,7,11,"55,000 ","6,500",TRUE,"61,500 ",COMPANY
+,Sumadhura Soham,BHK2,2,1,1260,Semi,East,5,5,"56,000 ","4,032",TRUE,"60,032 ",FAMILY
+,Sobha Habitech,BHK4,4,2,2400,Full,East,1,15,"85,000 ","11,050",TRUE,"96,050 ",ANYONE
+,Prestige Waterford,BHK3,3,2,2027,Semi,North,12,25,"82,000 ","7,000",TRUE,"89,000 ",ANYONE
+,Sobha Habitech,BHK3,3,2,1860,Semi,West,14,15,"70,000 ","9,000",TRUE,"79,000 ",FAMILY
+,Gopalan Atlantis,BHK3,3,2,1755,Semi,East,3,11,"62,000 ","6,000",TRUE,"68,000 ",FAMILY
+,Prestige Waterford,BHK3,4,0,1778,Semi,North,11,23,"85,000 ",,FALSE,"85,000 ",FAMILY
+,Prestige Boulevard,BHK3,3,2,1688,Semi,East,2,4,"58,000 ","8,000",TRUE,"66,000 ",FAMILY
+,Sobha Rose,BHK3,3,2,1702,Semi,,2,13,"55,000 ","6,400",TRUE,"61,400 ",FAMILY
+,Prestige Palms,BHK2,2,2,1352,Semi,East,2,4,"47,000 ","5,000",TRUE,"52,000 ",ANYONE
+,Sumadhura Silver Ripples,BHK2,2,1,1320,Semi,West,3,13,"48,000 ","5,500",TRUE,"53,500 ",FAMILY
+,Prestige Waterford,BHK3,3,,1775,Unfurnished,,2,20,"100,000 ",,FALSE,"100,000 ",FAMILY
+,Sumadhura Silver Ripples,BHK2,2,1,1320,Semi,,3,14,"50,000 ","5,500",TRUE,"55,500 ",FAMILY
+,Sobha Rose,BHK3,3,3,1720,Semi,Don't Know,10,13,"80,000 ","6,300",TRUE,"86,300 ",ANYONE
+,Prestige Boulevard,BHK3,3,2,1650,Semi,South-East,2,4,"60,000 ","8,000",TRUE,"68,000 ",FAMILY
+,Mahaveer Tranquil,BHK3,3,4,1660,Semi,East,4,11,"50,000 ","5,600",TRUE,"55,600 ",FAMILY
+,Prestige Waterford,BHK3,4,2,1775,Semi,East,7,24,"80,000 ",,FALSE,"80,000 ",FAMILY
+,Prestige Waterford,BHK3,4,2,1775,Semi,East,7,24,"85,000 ",,FALSE,"85,000 ",FAMILY
+,Brigade Woods,BHK1,1,0,631,Full,East,0,4,"45,000 ","2,600",TRUE,"47,600 ",COMPANY
+,Prestige Waterford,BHK3,4,2,1775,Semi,North-East,1,23,"70,000 ","7,000",TRUE,"77,000 ",FAMILY
+,Casa Gopalan,BHK2,2,2,1475,Semi,East,9,9,"40,000 ","5,900",TRUE,"45,900 ",FAMILY
+,Sumadhura Silver Ripples,BHK2,2,1,1300,Semi,East,12,14,"55,000 ","5,300",TRUE,"60,300 ",FAMILY
+,Sobha Rose,BHK3,3,2,1800,Semi,North,10,12,"80,000 ","4,500",TRUE,"84,500 ",FAMILY
+,Sobha Rose,BHK2,3,2,1600,Full,North-West,6,13,"50,000 ","6,400",TRUE,"56,400 ",BACHELOR_MALE
+,Sumadhura Silver Ripples,BHK3,3,2,1806,Full,East,4,11,"70,000 ","7,000",TRUE,"77,000 ",ANYONE
+,SOBHA Habitech,BHK2,2,2,1409,Semi,East,6,14,"44,000 ","6,000",TRUE,"50,000 ",FAMILY
+,Brigade Cosmopolis,BHK3,3,2,1740,Semi,East,5,18,"75,000 ",,FALSE,"75,000 ",FAMILY
+,Brigade Cosmopolis,BHK3,3,2,1740,Semi,East,10,18,"70,000 ","7,500",TRUE,"77,500 ",FAMILY
+,Gopalan Atlantis,BHK2,2,2,1150,Semi,East,2,11,"36,000 ","3,910",TRUE,"39,910 ",FAMILY
+,Brigade woods,BHK1,1,0,630,Full,East,4,4,"39,000 ","3,500",TRUE,"42,500 ",ANYONE
+,Prestige Waterford,BHK3,4,2,1775,Semi,North-East,4,23,"85,000 ",,FALSE,"85,000 ",FAMILY
+,Prestige Waterford,BHK1,1,1,639,Full,East,10,23,"50,000 ",,FALSE,"50,000 ",ANYONE
+,Prestige Boulevard,BHK3,3,2,1600,Semi,Don't Know,2,4,"60,000 ","8,000",TRUE,"68,000 ",FAMILY
+,Prestige Waterford,BHK3,5,2,2027,Semi,Don't Know,23,23,"75,000 ","7,500",TRUE,"82,500 ",FAMILY
+,Sumadhura Silver Ripples,BHK3,3,,1900,Semi,,2,14,"66,000 ","7,400",TRUE,"73,400 ",FAMILY
+,Prestige Waterford,BHK3,4,2,1775,Semi,North-East,18,24,"86,000 ",,FALSE,"86,000 ",FAMILY
+,Godrej United,BHK3,2,2,1485,Semi,East,4,16,"75,000 ","5,324",TRUE,"80,324 ",FAMILY
+,Godrej United,BHK1,1,1,613,Semi,East,2,17,"44,000 ","2,636",TRUE,"46,636 ",ANYONE
+,Prestige Waterford,BHK3,4,2,2027,Semi,North-East,17,23,"75,000 ","12,000",TRUE,"87,000 ",ANYONE
+,Prestige Waterford,BHK1,1,1,691,Full,,18,22,"47,000 ",,FALSE,"47,000 ",FAMILY
+,Prestige Waterford,BHK3,4,,1775,Semi,,9,21,"80,000 ","10,000",TRUE,"90,000 ",FAMILY
+,Brigade Cosmopolis,BHK3,3,2,1740,Semi,East,1,17,"69,000 ","7,000",TRUE,"76,000 ",FAMILY
+,Brigade Woods,BHK2,2,2,1299,Semi,North-East,0,4,"50,000 ","5,500",TRUE,"55,500 ",ANYONE
+,Prestige Boulevard,BHK2,2,,900,Full,,3,4,"60,000 ","5,000",TRUE,"65,000 ",FAMILY
+,Brigade Woods,BHK1,1,0,630,Full,,4,4,"48,000 ",,FALSE,"48,000 ",COMPANY
+,Prestige Waterford,BHK3,5,2,2027,Semi,North-West,16,24,"87,000 ",,FALSE,"87,000 ",FAMILY
+,Sobha Habitech,BHK3,3,2,1852,Semi,Don't Know,15,15,"64,000 ","8,000",TRUE,"72,000 ",ANYONE
+,Brigade Cosmopolis,BHK3,3,2,1720,Semi,East,1,17,"78,000 ",,FALSE,"78,000 ",FAMILY
+,Sumadhura Soham,BHK2,2,2,1170,Semi,East,3,5,"45,000 ","4,000",TRUE,"49,000 ",FAMILY
+,Prestige Waterford,BHK3,4,2,1775,Semi,North-East,9,22,"80,000 ","10,000",TRUE,"90,000 ",FAMILY
+,Prestige Palms,BHK3,3,2,1710,Full,North,2,3,"60,000 ","9,500",TRUE,"69,500 ",ANYONE
+,Citilights Rustique,BHK3,3,2,1717,Semi,South,1,3,"50,000 ","8,000",TRUE,"58,000 ",FAMILY
+,Prestige Boulevard,BHK2,2,1,1180,Semi,West,1,4,"44,000 ","5,780",TRUE,"49,780 ",COMPANY
+,CASA GOPALAN,BHK2,2,2,1435,Semi,,3,9,"45,000 ","5,500",TRUE,"50,500 ",FAMILY
+,Sumadhura Silver Ripples,BHK3,3,,1800,Semi,,7,12,"75,000 ",,FALSE,"75,000 ",FAMILY
+,Prestige Palms,BHK2,2,2,1350,Semi,East,1,3,"50,000 ","6,000",TRUE,"56,000 ",FAMILY
+,Prestige Palms,BHK3,3,3,1709,Semi,South,3,3,"50,000 ","8,300",TRUE,"58,300 ",ANYONE
+,Gopalan Atlantis,BHK3,3,3,1779,Semi,East,7,11,"50,000 ","6,000",TRUE,"56,000 ",BACHELOR_MALE
+,Mahaveer Tranquil,BHK2,2,2,1265,Semi,West,9,11,"42,000 ","4,000",TRUE,"46,000 ",FAMILY
+,Prestige Palms,BHK2,2,2,1352,Semi,East,1,3,"44,000 ","6,000",TRUE,"50,000 ",ANYONE
+,Brigade Cosmopolis,BHK2,2,1,1300,Semi,West,11,17,"34,000 ",,FALSE,"34,000 ",FAMILY
+,Prestige Waterford,BHK1,1,1,630,Full,East,15,22,"45,000 ",,FALSE,"45,000 ",ANYONE
+,Prestige Palms,BHK3,3,2,2000,Semi,North,2,4,"52,980 ","9,482",TRUE,"62,462 ",ANYONE
+,Sobha Rose,BHK3,3,,1800,Full,North-East,6,10,"60,000 ",,FALSE,"60,000 ",ANYONE
+,Brigade Woods,BHK3,3,2,1768,Semi,East,3,5,"77,500 ",,FALSE,"77,500 ",COMPANY
+,Citilights Rustique,BHK2,2,2,1385,Semi,East,1,4,"23,000 ",,FALSE,"23,000 ",FAMILY
+,Brigade cosmopolis,BHK2,2,1,1450,Semi,East,0,18,"48,000 ","5,000",TRUE,"53,000 ",FAMILY
+,Brigade Cosmopolis,BHK2,2,1,1356,Full,East,12,17,"60,000 ","6,000",TRUE,"66,000 ",FAMILY
+,Prestige Waterford,BHK3,4,2,1775,Semi,North-East,4,23,"85,000 ",,FALSE,"85,000 ",FAMILY
+,Casa Gopalan,BHK2,2,3,1465,Semi,East,6,9,"48,000 ","6,000",TRUE,"54,000 ",FAMILY
+,Gopalan Atlantis,BHK3,3,3,1755,Semi,East,2,11,"28,000 ",,TRUE,"28,000 ",ANYONE
+,Prestige Waterford,BHK3,4,2,1775,Unfurnished,East,6,22,"70,000 ","10,000",TRUE,"80,000 ",ANYONE
+,Prestige Palms,BHK2,2,2,1352,Semi,,0,3,"43,000 ","4,000",TRUE,"47,000 ",FAMILY
+,Prestige Waterford,BHK3,3,2,1775,Semi,Don't Know,9,22,"80,000 ","12,000",TRUE,"92,000 ",FAMILY
+,sumadhura soham,BHK2,2,1,1110,Semi,East,4,4,"51,000 ","4,500",TRUE,"55,500 ",FAMILY
+,Citilights Rustique,BHK3,3,3,1717,Semi,South,1,3,"50,000 ","10,000",TRUE,"60,000 ",FAMILY
+,Prestige Waterford,BHK3,4,2,2050,Unfurnished,East,18,24,"80,000 ",,FALSE,"80,000 ",BACHELOR
+,Sobha Habitech,BHK3,3,2,1860,Semi,East,11,15,"66,000 ","7,000",TRUE,"73,000 ",ANYONE
+,Citilights Rustique,BHK3,3,3,1743,Semi,East,1,3,"55,000 ","7,500",TRUE,"62,500 ",COMPANY
+,Prestige Waterford,BHK3,4,,1775,Semi,,22,23,"90,000 ",,FALSE,"90,000 ",ANYONE
+,Sumadhura Silver Ripples,BHK2,2,1,1000,Full,West,12,14,"55,000 ","5,000",TRUE,"60,000 ",ANYONE
+,Sumadhura Soham,BHK2,2,1,1170,Semi,West,1,4,"42,000 ","5,000",TRUE,"47,000 ",FAMILY
+,Sumadhura Silver Ripples,BHK3,2,2,1600,Semi,North,6,6,"65,000 ",,FALSE,"65,000 ",FAMILY
+,Prestige Palms,BHK2,2,2,1352,Semi,East,3,4,"42,000 ","6,500",TRUE,"48,500 ",FAMILY
+,Brigade Cosmopolis,BHK2,2,1,1350,Semi,West,15,15,"35,000 ",,FALSE,"35,000 ",FAMILY
+,Sumadhura Silver Ripples,BHK3,3,,1850,Semi,,12,14,"70,000 ","7,000",TRUE,"77,000 ",FAMILY
+,Gopalan Atlantis,BHK3,3,3,1755,Semi,East,0,11,"50,000 ","6,000",TRUE,"56,000 ",FAMILY
+,Prestige Waterford,BHK3,4,2,2027,Semi,North-East,14,24,"80,000 ","8,000",TRUE,"88,000 ",FAMILY
+,Citilights Rustique,BHK3,3,2,1717,Semi,South,1,3,"55,000 ","10,000",TRUE,"65,000 ",FAMILY
+,Mahaveer Tranquil,BHK3,3,5,1700,Semi,,5,10,"65,000 ","5,000",TRUE,"70,000 ",FAMILY
+,Citilights Rustique,BHK2,2,2,1350,Semi,North-East,1,3,"36,000 ","7,000",TRUE,"43,000 ",ANYONE
+,Brigade Woods,BHK3,3,2,1768,Semi,West,1,4,"70,000 ","7,000",TRUE,"77,000 ",FAMILY
+,Brigade Woods,BHK1,1,,650,Semi,,3,4,"39,000 ","2,500",TRUE,"41,500 ",ANYONE
+,Dsr Green Vista,BHK2,2,1,1300,Semi,,3,3,"24,500 ","3,000",TRUE,"27,500 ",ANYONE
+,Casa Gopalan,BHK2,2,2,1445,Semi,East,9,9,"45,000 ","4,500",TRUE,"49,500 ",COMPANY
+,Sumadhura Silver Ripples,BHK3,3,4,2141,Semi,North-West,1,11,"60,000 ","8,500",TRUE,"68,500 ",ANYONE
+,Prestige Boulevard,BHK2,2,1,1047,Full,West,2,4,"40,000 ","5,110",TRUE,"45,110 ",FAMILY
+,Sumadhura Silver Ripples,BHK2,2,1,1141,Semi,East,4,4,"20,000 ","5,000",TRUE,"25,000 ",ANYONE
+,Sobha Rose,BHK3,3,2,1700,Semi,East,4,12,"60,000 ","6,000",TRUE,"66,000 ",ANYONE
+,Citilights Rustique,BHK3,3,,1732,Semi,,0,4,"50,000 ",,FALSE,"50,000 ",FAMILY
+,Prestige Waterford,BHK4PLUS,6,,2525,Full,,8,22,"160,000 ","10,000",TRUE,"170,000 ",ANYONE
+,Prestige Boulevard,BHK3,3,4,1764,Semi,,1,4,"48,000 ","8,320",TRUE,"56,320 ",ANYONE
+,Sobha Habitech,BHK2,2,1,1727,Semi,West,1,12,"45,000 ","7,400",TRUE,"52,400 ",FAMILY
+,Prestige Boulevard,BHK2,2,1,1047,Full,East,3,4,"45,000 ","5,118",TRUE,"50,118 ",FAMILY
+,Brigade Woods,BHK1,1,,618,Full,North,1,4,"45,000 ",,FALSE,"45,000 ",ANYONE
+,Sumadhura Soham,BHK2,2,2,1265,Semi,East,1,4,"45,000 ",,FALSE,"45,000 ",FAMILY
+,Sumadhura Soham,BHK2,2,2,1170,Semi,West,1,4,"55,000 ",,FALSE,"55,000 ",FAMILY
+,Sobha Habitech,BHK2,2,2,1367,Semi,,13,14,"57,000 ","5,700",TRUE,"62,700 ",ANYONE
+,Prestige Palms,BHK2,2,2,1352,Semi,North,0,4,"47,000 ",,FALSE,"47,000 ",ANYONE
+,DSR Green Vista,BHK2,2,1,1141,Semi,East,2,3,"20,000 ",,FALSE,"20,000 ",COMPANY
+,Prestige Waterford,BHK3,4,2,2050,Unfurnished,East,15,24,"80,000 ",,FALSE,"80,000 ",BACHELOR_FEMALE
+,Citilights Rustique,BHK3,3,2,1717,Semi,South,1,3,"55,000 ","10,000",TRUE,"65,000 ",FAMILY
+,Brigade Woods,BHK3,3,2,1782,Semi,North-West,4,4,"60,000 ","9,000",TRUE,"69,000 ",ANYONE
+,Sumadhura Silver Ripples,BHK1,2,1,1141,Unfurnished,East,2,14,"20,000 ",,FALSE,"20,000 ",BACHELOR_MALE
+,Sumadhura Silver Ripples,BHK2,2,,1241,Full,East,4,14,"35,000 ",,FALSE,"35,000 ",FAMILY
+,Citilights Rustique,BHK3,3,,1800,Unfurnished,,0,3,"50,000 ",,FALSE,"50,000 ",FAMILY
+,Sumadhura Silver Ripples,BHK2,2,2,1340,Semi,East,11,14,"51,000 ","4,000",TRUE,"55,000 ",COMPANY
+,Brigade Cosmopolis,BHK3,3,2,1730,Semi,East,15,17,"70,000 ","7,300",TRUE,"77,300 ",FAMILY
+,prestige waterford,BHK4,6,2,2525,Semi,North-East,9,24,"110,000 ",,FALSE,"110,000 ",ANYONE
+,Brigade Woods,BHK2,2,2,1401,Semi,East,2,5,"60,000 ","6,000",TRUE,"66,000 ",ANYONE
+,Casa Gopalan,BHK2,2,,1360,Semi,,9,9,"45,000 ","5,500",TRUE,"50,500 ",FAMILY
+,Sobha Habitech,BHK3,3,3,1922,Semi,West,13,15,"65,000 ",,FALSE,"65,000 ",FAMILY
+,Brigade Woods,BHK3,3,2,1782,Semi,East,4,4,"65,000 ","7,500",TRUE,"72,500 ",ANYONE
+,Citilights Rustique,BHK3,3,4,2500,Semi,South,3,3,"50,000 ","13,000",TRUE,"63,000 ",ANYONE
+,Sumadhura Soham,BHK2,2,1,1260,Semi,East,1,4,"45,000 ","4,000",TRUE,"49,000 ",FAMILY
+,Casa Gopalan,BHK2,2,2,1440,Semi,West,7,9,"42,568 ","5,500",TRUE,"48,068 ",FAMILY
+,Gopalan Atlantis,BHK2,2,2,1240,Full,East,10,11,"52,000 ","4,250",TRUE,"56,250 ",FAMILY
+,Brigade Woods,BHK1,1,,631,Full,North,1,4,"45,000 ",,FALSE,"45,000 ",ANYONE
+,Mahaveer Tranquil,BHK2,2,3,1266,Semi,West,7,10,"50,000 ",,FALSE,"50,000 ",COMPANY
+,Godrej United,BHK3,3,2,2140,Semi,South,7,18,"125,000 ",,FALSE,"125,000 ",FAMILY
+,Godrej United,bhk3,3,3,2140,semi_furnished,,7,21,"115,000 ","10,000",FALSE,"125,000 ",
+,Godrej United,bhk1,1,1,630,semi_furnished,,2,10,"47,000 ","2,700",FALSE,"49,700 ",
+,Godrej United,bhk1,,,613,semi_furnished,,6,17,"47,000 ","2,300",FALSE,"49,300 ",
+,Godrej United,bhk3,,,2100,fully_furnished,,2,17,"110,000 ","11,000",FALSE,"121,000 ",
+,Mahaveer Tranquil,bhk3,3,3,1769,semi_furnished,,8,11,"55,000 ","6,000",FALSE,"61,000 ",
+,Mahaveer Tranquil,bhk3,,,1200,semi_furnished,,2,11,"50,000 ","5,000",FALSE,"55,000 ",
+,Prestige Boulevard,bhk2,,,1100,fully_furnished,,3,4,"52,000 ",,TRUE,"52,000 ",
+,Mahaveer Tranquil,bhk3,,,1700,semi_furnished,,9,11,"60,000 ","15,000",FALSE,"75,000 ",
+,Mahaveer Tranquil,bhk2,,,1148,unfurnished,,5,12,"35,000 ",1,FALSE,"35,001 ",
+,Mahaveer Tranquil,bhk3,,,1685,semi_furnished,,1,11,"50,000 ","6,000",FALSE,"56,000 ",
+,Sumadhura Soham,bhk2,,,1170,fully_furnished,,1,5,"52,000 ","4,000",FALSE,"56,000 ",
+,Gopalan Atlantis,bhk2,,,1250,semi_furnished,,1,18,"46,000 ","4,000",FALSE,"50,000 ",
+,Gopalan Atlantis,bhk3,3,3,1755,semi_furnished,,7,11,"60,000 ","6,900",FALSE,"66,900 ",
+,Sumadhura Soham,bhk3,,,1562,semi_furnished,,3,4,"55,000 ","5,000",FALSE,"60,000 ",
+,Sumadhura Soham,bhk2,1,2,1260,fully_furnished,,1,5,"49,000 ","4,000",FALSE,"53,000 ",
+,Prestige Palms,bhk3,,,1850,fully_furnished,,1,3,"19,800 ",,TRUE,"19,800 ",
+,Prestige Waterford,bhk4,,,2555,semi_furnished,,24,24,"120,000 ",,TRUE,"120,000 ",
+,Prestige Waterford,bhk3,,,2027,semi_furnished,,5,24,"100,000 ",,TRUE,"100,000 ",
+,DSR Green Vista,bhk3,,,1478,semi_furnished,,2,3,"50,000 ","4,500",FALSE,"54,500 ",
+,DSR Green Vista,bhk2,2,1,1301,semi_furnished,,1,4,"42,500 ","3,710",FALSE,"46,210 ",
+,DSR Green Vista,bhk3,,,1500,unfurnished,,3,3,"48,000 ","3,000",FALSE,"51,000 ",
