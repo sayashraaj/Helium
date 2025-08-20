@@ -30,12 +30,14 @@ This repository contains a comprehensive data analysis project that develops a r
 
 The goal of this project is to create a reliable rental price estimation tool for semi-furnished 2-BHK and 3-BHK properties in Bengaluru. Recognizing the challenges of data sparsity and variability in real estate listings, this project implements a multi-tiered, hierarchical estimation model. The methodology involves robust data cleaning, feature engineering, and market segmentation using K-Means clustering to define 'Budget', 'Mid-Market', and 'Premium' segments. A predictive linear regression model is trained for each segment, and its coefficients are validated for statistical significance using `statsmodels`. The final price ranges are derived using a fallback logic that prioritizes hyper-local data and gracefully degrades to broader market statistics when data is scarce. The project culminates in a suite of advanced visualizations designed to translate complex data into a strategic narrative for business stakeholders.
 
-## Project Structure.
+## Project Structure
+
+```
 ├── rental_data.csv                 # Raw input data file
 ├── advanced_analyzer.py            # Main script for data processing and hierarchical modeling
-├── professional_visualizations.py    # Script for generating core business-focused visuals
+├── professional_visualizations.py  # Script for generating core business-focused visuals
 ├── quant_visualizations.py         # Script for generating advanced quantitative visuals
-├── plots/                            # Directory for all generated visualizations
+├── plots/                          # Directory for all generated visualizations
 │   ├── 1_price_distribution_violin.png
 │   ├── 2_correlation_heatmap_focused.jpg
 │   ├── 3_market_segmentation_map.jpg
@@ -45,7 +47,7 @@ The goal of this project is to create a reliable rental price estimation tool fo
 │   └── 9_deal_finder_analysis.jpg
 ├── requirements.txt                # Required Python libraries
 └── README.md                       # This file
-
+```
 
 ## Methodology
 
